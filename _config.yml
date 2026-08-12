@@ -1,0 +1,7 @@
+title: Saldofit Changelog
+description: Neuigkeiten und Verbesserungen in Saldofit
+lang: de
+theme: minima
+
+# Releases are stored as posts: _posts/YYYY-MM-DD-name.md
+permalink: /releases/:year-:month-:day/
