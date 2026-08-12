@@ -27,7 +27,7 @@
 
 h1, h2, h3 {
   font-family: "Inter", sans-serif;
-  font-weight: 600;
+  font-weight: 650;
 }
 
 /* Release page */
@@ -35,6 +35,19 @@ h1, h2, h3 {
 .post-title { font-size: 1.75rem; }
 .post-content h2 { font-size: 1.35rem; }
 .post-content h3 { font-size: 1.15rem; }
+.post-content h2, .post-content h3 { margin-top: 2.5rem; }
+.post-content img {
+  max-width: 100%;
+  height: auto;
+}
+.post-content p:has(> img) { text-align: center; }
+/* Solo images may stretch beyond the text column, centered on it */
+.post-content p > img:only-child {
+  display: block;
+  max-width: min(1100px, calc(100vw - 30px));
+  margin-left: 50%;
+  transform: translateX(-50%);
+}
 
 /* Release overview */
 .release-month {
