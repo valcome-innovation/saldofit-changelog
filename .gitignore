@@ -1,0 +1,17 @@
+_site/
+.jekyll-cache/
+.sass-cache/
+.claude/
+.idea
+.vscode
+.mcp.json
+
+# container-mounted dotfiles
+.bash_profile
+.bashrc
+.gitconfig
+.gitmodules
+.profile
+.ripgreprc
+.zprofile
+.zshrc

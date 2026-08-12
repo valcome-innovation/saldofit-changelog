@@ -1,6 +1,6 @@
-# Saldofit Changelog
+# Saldofit Releases
 
-Release notes für [Saldofit](https://saldofit.at), veröffentlicht als GitHub Pages Seite.
+Release notes für [Saldofit](https://saldofit.com), veröffentlicht als GitHub Pages Seite.
 
 ## Neues Release hinzufügen
 
