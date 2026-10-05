@@ -1,0 +1,74 @@
+---
+layout: post
+title: "7. Oktober 2026"
+description: "KI-Chat direkt am Beleg, KI-Regeln im Klientenprofil, bessere Unterstützung für Kleinunternehmer und weitere Verbesserungen."
+---
+
+## 1. KI-Chat am Beleg
+
+Ab sofort kannst du direkt am Beleg mit der KI chatten. Schreib ihr einfach in eigenen Worten, was du wissen oder ändern willst. Ein paar Beispiele, wofür sich der Chat anbietet:
+
+### Fragen zum Beleg
+
+Du willst wissen, warum die KI so gebucht hat? Frag einfach nach.
+
+- *„Warum hast du auf 7380 gebucht?“*
+- *„Warum wurde keine Vorsteuer gezogen?“*
+- *„Ist das eine Reverse-Charge-Rechnung?“*
+
+<img width="740" height="556" alt="simplescreenrecorder-2026-10-05_15 12 24" src="https://github.com/user-attachments/assets/7ef54d26-f17e-42f3-b677-cedbc239ca65" />
+
+### Änderungen am Beleg
+
+Schreib der KI, was anders sein soll. Sie macht daraus einen Änderungsvorschlag und zeigt genau, was sich ändert. Mit **Übernehmen** (`Strg+Enter`) wird die Änderung in den Beleg übernommen, mit **Ablehnen** (`Esc`) verworfen. Ohne deine Bestätigung ändert die KI nichts.
+
+- *„Buch das bitte auf 7390 statt 7380.“*
+- *„Teil die Rechnung auf: 50 € auf 7380, den Rest auf 7600.“*
+- *„Das Leistungsdatum ist der 30.09.2026.“*
+- *„Leg für diesen Lieferanten ein neues Personenkonto an.“*
+- *„Die Prüfung zum Steuersatz passt, bitte als erledigt markieren.“*
+
+<img width="740" height="618" alt="simplescreenrecorder-2026-10-05_15 08 41" src="https://github.com/user-attachments/assets/38b73579-8f42-46e8-8be1-48927c478124" />
+
+Passt deine Anweisung nicht zum Beleg, zum Beispiel ein Erlöskonto auf einer Eingangsrechnung, fragt die KI einmal nach, bevor sie etwas vorschlägt.
+
+### Anweisungen für die Zukunft
+
+Soll etwas nicht nur für diesen Beleg gelten, sondern immer? Dann sag das der KI. Sie legt daraus eine KI-Regel für den Klienten an, die ab dann bei allen Belegen berücksichtigt wird. Ist unklar, ob du nur diesen Beleg oder alle meinst, fragt sie nach.
+
+- *„Rechnungen von A1 bitte immer auf 7380 buchen.“*
+- *„Amazon-Rechnungen sind bei diesem Klienten immer Büromaterial.“*
+- *„Bei Tankrechnungen gehört immer das Kfz-Kennzeichen in den Buchungstext.“*
+
+<img width="740" height="556" alt="simplescreenrecorder-2026-10-05_15 16 16" src="https://github.com/user-attachments/assets/7835b013-7520-45fb-acf6-0fd3bd6ce08a" />
+
+## 2. KI-Regeln im Profil
+
+Im Profil des Klienten (links in der Navigation unter „Profil“) gibt es neben der Beschreibung jetzt **KI-Regeln**. Eine Regel ist eine konkrete Anweisung, an die sich die KI halten soll.
+
+Die KI berücksichtigt die Regeln in jedem Schritt, beim Auslesen, bei der Prüfung und beim Verbuchen. In der Begründung zum Buchungsvorschlag siehst du, welche Regel angewendet wurde.
+
+Regeln legst du selbst an („Regel hinzufügen“), über den Chat am Beleg oder mit dem KI-Assistenten rechts im Profil. Jede Regel hat eine Nummer (#R1, #R2 …) und zeigt, wer sie wann angelegt oder geändert hat. Über den Änderungsverlauf lassen sich frühere Versionen wiederherstellen.
+
+<img width="740" height="396" alt="simplescreenrecorder-2026-10-05_15 19 14" src="https://github.com/user-attachments/assets/9aae274b-51fc-4bf6-8501-03f50ca44188" />
+
+**Tipp:** Bei bestehenden Klienten, bei denen die Regeln noch direkt im Profiltext stehen, kannst du einfach die KI die Arbeit machen lassen:
+
+***„Bitte aus dem Profil alle Regeln als eigenständige KI-Regeln anlegen“***
+
+Danach kurz durchsehen, übernehmen und speichern.
+
+## 3. Unterstützung für Kleinunternehmer
+
+Die KI berücksichtigt jetzt beim Verbuchen, wenn ein Klient Kleinunternehmer ist. Das heißt, sie kann Eingangsrechnungen mit dem Bruttobetrag und ohne Steuercode buchen.
+
+<img width="933" height="547" alt="image" src="https://github.com/user-attachments/assets/791e2f02-f6bb-4de6-8d6b-227f6d3a34dd" /><img width="740" height="396" alt="simplescreenrecorder-2026-10-05_15 19 14" src="https://github.com/user-attachments/assets/6733504a-0623-4ef0-8cdb-8d75f770635b" />
+
+Außerdem erkennt die KI den Klienten auf seinen eigenen Belegen jetzt besser, auch ohne UID-Nummer. Eingangs- und Ausgangsrechnungen werden dadurch zuverlässiger auseinandergehalten.
+
+## 4. Weitere Verbesserungen
+
+- Adresse und Land des Lieferanten werden zuverlässiger ausgelesen.
+- Die Stammdaten des Klienten (z. B. Rechtsform, UID, Umsatzsteuer) werden jetzt in allen Verarbeitungsschritten besser berücksichtigt.
+- Steuercodes sind in der Auswahlliste nach Nummer sortiert.
+- Nach einem Wechsel des Steuercodes wurde der Bruttobetrag teilweise falsch angezeigt, das ist behoben.
