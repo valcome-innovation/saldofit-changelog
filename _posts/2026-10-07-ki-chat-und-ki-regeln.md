@@ -16,7 +16,8 @@ Du willst wissen, warum die KI so gebucht hat? Frag einfach nach.
 - *„Warum wurde keine Vorsteuer gezogen?“*
 - *„Ist das eine Reverse-Charge-Rechnung?“*
 
-<img width="740" height="556" alt="simplescreenrecorder-2026-10-05_15 12 24" src="https://github.com/user-attachments/assets/7ef54d26-f17e-42f3-b677-cedbc239ca65" />
+<img width="740" height="556" alt="simplescreenrecorder-2026-10-05_15 12 24" src="https://github.com/user-attachments/assets/d6613b97-d7b3-4bc6-bff7-b30576d9bb73" />
+
 
 ### Änderungen am Beleg
 
@@ -28,7 +29,7 @@ Schreib der KI, was anders sein soll. Sie macht daraus einen Änderungsvorschlag
 - *„Leg für diesen Lieferanten ein neues Personenkonto an.“*
 - *„Die Prüfung zum Steuersatz passt, bitte als erledigt markieren.“*
 
-<img width="740" height="618" alt="simplescreenrecorder-2026-10-05_15 08 41" src="https://github.com/user-attachments/assets/38b73579-8f42-46e8-8be1-48927c478124" />
+<img width="740" height="618" alt="simplescreenrecorder-2026-10-05_15 08 41" src="https://github.com/user-attachments/assets/97412c88-b492-47a2-b42f-65bfb4b70bf2" />
 
 Passt deine Anweisung nicht zum Beleg, zum Beispiel ein Erlöskonto auf einer Eingangsrechnung, fragt die KI einmal nach, bevor sie etwas vorschlägt.
 
@@ -40,7 +41,7 @@ Soll etwas nicht nur für diesen Beleg gelten, sondern immer? Dann sag das der K
 - *„Amazon-Rechnungen sind bei diesem Klienten immer Büromaterial.“*
 - *„Bei Tankrechnungen gehört immer das Kfz-Kennzeichen in den Buchungstext.“*
 
-<img width="740" height="556" alt="simplescreenrecorder-2026-10-05_15 16 16" src="https://github.com/user-attachments/assets/7835b013-7520-45fb-acf6-0fd3bd6ce08a" />
+<img width="740" height="556" alt="simplescreenrecorder-2026-10-05_15 16 16" src="https://github.com/user-attachments/assets/ae505081-9231-493c-81f7-7a9f51f2baf8" />
 
 ## 2. KI-Regeln im Profil
 
@@ -50,7 +51,7 @@ Die KI berücksichtigt die Regeln in jedem Schritt, beim Auslesen, bei der Prüf
 
 Regeln legst du selbst an („Regel hinzufügen“), über den Chat am Beleg oder mit dem KI-Assistenten rechts im Profil. Jede Regel hat eine Nummer (#R1, #R2 …) und zeigt, wer sie wann angelegt oder geändert hat. Über den Änderungsverlauf lassen sich frühere Versionen wiederherstellen.
 
-<img width="740" height="396" alt="simplescreenrecorder-2026-10-05_15 19 14" src="https://github.com/user-attachments/assets/9aae274b-51fc-4bf6-8501-03f50ca44188" />
+<img width="920" height="492" alt="simplescreenrecorder-2026-10-05_15 19 14" src="https://github.com/user-attachments/assets/1886fbc5-b23b-4e74-a4f1-cdda8e29a470" />
 
 **Tipp:** Bei bestehenden Klienten, bei denen die Regeln noch direkt im Profiltext stehen, kannst du einfach die KI die Arbeit machen lassen:
 
@@ -62,7 +63,7 @@ Danach kurz durchsehen, übernehmen und speichern.
 
 Die KI berücksichtigt jetzt beim Verbuchen, wenn ein Klient Kleinunternehmer ist. Das heißt, sie kann Eingangsrechnungen mit dem Bruttobetrag und ohne Steuercode buchen.
 
-<img width="933" height="547" alt="image" src="https://github.com/user-attachments/assets/791e2f02-f6bb-4de6-8d6b-227f6d3a34dd" /><img width="740" height="396" alt="simplescreenrecorder-2026-10-05_15 19 14" src="https://github.com/user-attachments/assets/6733504a-0623-4ef0-8cdb-8d75f770635b" />
+<img width="933" height="547" alt="image" src="https://github.com/user-attachments/assets/791e2f02-f6bb-4de6-8d6b-227f6d3a34dd" />
 
 Außerdem erkennt die KI den Klienten auf seinen eigenen Belegen jetzt besser, auch ohne UID-Nummer. Eingangs- und Ausgangsrechnungen werden dadurch zuverlässiger auseinandergehalten.
 
