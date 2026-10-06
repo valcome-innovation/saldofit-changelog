@@ -1,6 +1,7 @@
 title: Saldofit Releases
 description: Alle Releases und Verbesserungen von Saldofit
 lang: de
+timezone: Europe/Vienna
 theme: minima
 
 # Releases are stored as posts: _posts/YYYY-MM-DD-name.md
