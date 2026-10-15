@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "15. Oktober 2026"
-description: "Aussagekräftigere Ampel, PDFs direkt am Beleg bearbeiten und weitere Verbesserungen."
+description: "Aussagekräftigerer Konfidenz-Score, PDFs direkt am Beleg bearbeiten und weitere Verbesserungen."
 ---
 
-## 1. Aussagekräftigere Ampel
+## 1. Aussagekräftigerer Konfidenz-Score
 
-Die KI bewertet den Beleg jetzt am Ende noch einmal als Ganzes und setzt die Ampel bewusster.
+Die KI bewertet den Beleg jetzt am Ende noch einmal als Ganzes und vergibt den Konfidenz-Score bewusster. Die Ampel dazu bedeutet:
 
 - 🟢 **Grün:** Die Buchung ist stimmig und gut belegt, etwa durch bestätigte Historie oder eine KI-Regel.
 - 🟡 **Gelb:** Es gibt etwas anzusehen, etwa ein von der KI zugeordnetes Personenkonto oder ein unsicher gelesenes Feld.
