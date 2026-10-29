@@ -20,13 +20,13 @@ In der Erfassung gibt es bei der Mehrfachauswahl jetzt **Verbuchen** für Belege
 
 Am einzelnen Beleg heißt „Prüfung abschließen“ jetzt ebenfalls **Verbuchen** und bucht direkt. Bei offenen Prüfungen listet ein Dialog die Punkte, `Enter` bestätigt.
 
-<img width="920" height="618" alt="simplescreenrecorder-2026-10-29_17 54 07" src="https://github.com/user-attachments/assets/39252c93-d80b-4111-a372-1788a988bb72" />
+<img width="740" alt="simplescreenrecorder-2026-10-29_17 54 07" src="https://github.com/user-attachments/assets/39252c93-d80b-4111-a372-1788a988bb72" />
 
 ## 2. Konto und Passwort selbst verwalten
 
 Im Benutzermenü rechts oben gibt es jetzt **Einstellungen**. Dort lassen sich der eigene Name und das Passwort ändern und alle Geräte auf einmal abmelden.
 
-<img width="1452" height="795" alt="Screenshot from 2026-10-29 17-57-35" src="https://github.com/user-attachments/assets/12f2b210-3060-4b08-8c24-297252855f31" />
+<img width="740" alt="Screenshot from 2026-10-29 17-57-35" src="https://github.com/user-attachments/assets/12f2b210-3060-4b08-8c24-297252855f31" />
 
 Passwort vergessen? Auf der Anmeldeseite lässt sich ein Link zum Zurücksetzen per E-Mail anfordern. Neue Benutzer werden per E-Mail eingeladen und legen beim ersten Öffnen Name und Passwort selbst fest, Admins müssen kein Passwort mehr weitergeben.
 
@@ -36,7 +36,7 @@ Nach diesem Update ist einmalig eine neue Anmeldung nötig.
 
 Bucht ein Beleg auf mehrere Zeilen, bekommt jede Zeile jetzt einen eigenen Buchungstext. Der Text lässt sich in der Buchungstabelle direkt bearbeiten oder über den KI-Chat ändern.
 
-<img width="911" height="281" alt="Screenshot from 2026-10-29 17-59-55" src="https://github.com/user-attachments/assets/42f7fb74-7d25-431f-b3cf-4dda7db011d6" />
+<img width="740" alt="Screenshot from 2026-10-29 17-59-55" src="https://github.com/user-attachments/assets/42f7fb74-7d25-431f-b3cf-4dda7db011d6" />
 
 ## 4. Weitere Verbesserungen
 
