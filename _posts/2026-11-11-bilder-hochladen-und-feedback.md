@@ -8,7 +8,7 @@ description: "Bilder und Fotos als Beleg hochladen, Feedback direkt aus Saldofit
 
 In der Erfassung lassen sich jetzt neben PDFs auch Bilder hochladen. Unterstützt werden gängige Bildformate wie JPEG, PNG und WebP.
 
-<img width="920" height="544" alt="simplescreenrecorder-2026-11-11_10 49 21" src="https://github.com/user-attachments/assets/dcfb3643-5239-489a-b5f4-5970b262c485" />
+<img width="720" height="426" alt="simplescreenrecorder-2026-11-11_10 49 21" src="https://github.com/user-attachments/assets/dcfb3643-5239-489a-b5f4-5970b262c485" />
 
 Bilder werden intern in ein PDF umgewandelt und funktionieren damit auch im PDF-Editor am Beleg. So lassen sich Bilder als Seite an ein PDF anhängen oder umgekehrt PDF-Seiten an einen Bildbeleg.
 
