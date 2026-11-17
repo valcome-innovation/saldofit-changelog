@@ -39,6 +39,10 @@ h1, h2, h3 {
 .post-content img {
   max-width: 100%;
   height: auto;
+  /* Cut stray window borders off screenshots, per image:
+     <img style="--crop: top right bottom left" ...> e.g. "--crop: 0 0 2px 0".
+     Rounded corner ring: append "round tl tr br bl", e.g. "--crop: 1px 0 1px 2px round 0 0 0 5px" */
+  clip-path: inset(var(--crop, 0));
 }
 .post-content p:has(> img) { text-align: center; }
 /* Solo images may stretch beyond the text column, centered on it */
